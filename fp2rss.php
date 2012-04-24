@@ -1,8 +1,6 @@
 <?PHP
 	/*
 		Template for the RSS file
-
-		function to save
 	*/
 	include("xml.php");
 
@@ -73,9 +71,7 @@
 	}
 
 	/*
-		Render the XML file
-
-		(Maybe change this to a save function to save the XML file?)
+		Save the xml file
 	*/
 	$news->asXML("fp2rss.xml");
 ?>
