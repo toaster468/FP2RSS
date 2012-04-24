@@ -1,1 +1,7 @@
 FP2RSS is a project which takes the news section of Facepunch.com and turns it into a small screen friendly (or old phone friendly) website. RSS is a widely used way of displaying data so with this project you could see Facepunch news feeds on your desktop with gadets, old phones, native applications dedicated to reading RSS feeds and more!
+
+
+=== How to use ===
+1. Download the source files, put them in your webserver in the same directory together.
+2. Navigate to the website / configure your server to automatically update the feed with a cron job.
+3. Done!
